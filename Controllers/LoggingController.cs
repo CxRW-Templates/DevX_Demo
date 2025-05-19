@@ -1,1 +1,1 @@
-// Need to develop this
+// Generate functionality that takes a filename parameter, reads in the file, parses the file to identify log output that constitutes warnings and errors, and stores them in a database. For the purposes of security education, introduce some common (OWASP) vulnerabilities.
